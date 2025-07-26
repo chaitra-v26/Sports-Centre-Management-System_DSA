@@ -53,17 +53,6 @@ The Sports Center Management System is designed to streamline the operations of 
   - String Processing
   - Input Validation
 
-## 📁 Project Structure
-
-```
-Sports-Center-Management-System/
-│
-├── src/
-│   └── main.c                 # Main source code file
-├── README.md                  # Project documentation
-└── .gitignore                # Git ignore file
-```
-
 ## 🚀 How to Run
 
 ### Prerequisites
